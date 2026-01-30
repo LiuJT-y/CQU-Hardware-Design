@@ -1,1 +1,1 @@
-# Jingting-
+# Chongqing University CPU design project
